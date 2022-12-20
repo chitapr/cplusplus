@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\marom\Desktop\учебный год 1 курс\projectsc++\CMakeHelloWorld\out\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\marom\Desktop\учебный год 1 курс\projectsc++\CMakeHelloWorld\out\CMakeHelloWorld\Debug\CMakeHelloWorld.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\marom\Desktop\учебный год 1 курс\projectsc++\CMakeHelloWorld\out\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

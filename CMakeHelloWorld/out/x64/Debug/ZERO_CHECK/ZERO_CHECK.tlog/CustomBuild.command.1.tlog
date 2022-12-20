@@ -1,0 +1,10 @@
+^C:\USERS\MAROM\DESKTOP\УЧЕБНЫЙ ГОД 1 КУРС\PROJECTSC++\CMAKEHELLOWORLD\OUT\CMAKEFILES\EA8E44EC70D2F936A0DC79534F56F882\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld" "-BC:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/CMakeHelloWorld.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

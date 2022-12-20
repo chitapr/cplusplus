@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMakeHelloWorld",
+					"jsonFile" : "directory-CMakeHelloWorld-Debug-24c7c0af902902075b4d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMakeHelloWorld",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakeHelloWorld",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeHelloWorld::@ff77643d84ae3add6701",
+					"jsonFile" : "target-CMakeHelloWorld-Debug-7f254a00791119e1e400.json",
+					"name" : "CMakeHelloWorld",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/marom/Desktop/\u0443\u0447\u0435\u0431\u043d\u044b\u0439 \u0433\u043e\u0434 1 \u043a\u0443\u0440\u0441/projectsc++/CMakeHelloWorld/out/build/x64-debug",
+		"source" : "C:/Users/marom/Desktop/\u0443\u0447\u0435\u0431\u043d\u044b\u0439 \u0433\u043e\u0434 1 \u043a\u0443\u0440\u0441/projectsc++/CMakeHelloWorld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

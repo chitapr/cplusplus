@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CMakeHelloWorld",
+    "\\out",
+    "\\out\\CMakeHelloWorld",
+    "\\out\\CMakeHelloWorld\\Debug",
+    "\\out\\x64",
+    "\\out\\x64\\Debug",
+    "\\out\\x64\\Debug\\ALL_BUILD",
+    "\\out\\x64\\Debug\\ZERO_CHECK"
+  ],
+  "SelectedNode": "\\out\\CMakeHelloWorld",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,5 @@
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/build/x64-debug/CMakeHelloWorld/CMakeFiles/CMakeHelloWorld.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/build/x64-debug/CMakeHelloWorld/CMakeFiles/edit_cache.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/build/x64-debug/CMakeHelloWorld/CMakeFiles/rebuild_cache.dir

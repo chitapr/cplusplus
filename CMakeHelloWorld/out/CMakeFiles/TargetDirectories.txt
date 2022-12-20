@@ -1,0 +1,3 @@
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/CMakeFiles/ALL_BUILD.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/CMakeFiles/ZERO_CHECK.dir
+C:/Users/marom/Desktop/учебный год 1 курс/projectsc++/CMakeHelloWorld/out/CMakeHelloWorld/CMakeFiles/CMakeHelloWorld.dir
